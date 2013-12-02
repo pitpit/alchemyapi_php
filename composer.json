@@ -1,5 +1,5 @@
 {
-    "name": "alchemy/alchemyapi-sdk",
+    "name": "alchemyapi/php-sdk",
     "type": "application",
     "description": "A software development kit (sdk) for AlchemyAPI using PHP",
     "license": "Apache-2.0",
