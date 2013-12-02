@@ -1,0 +1,9 @@
+{
+    "name": "alchemy/alchemyapi-sdk",
+    "type": "application",
+    "description": "A software development kit (sdk) for AlchemyAPI using PHP",
+    "license": "Apache-2.0",
+    "autoload": {
+        "classmap": ["."]
+    }
+}
